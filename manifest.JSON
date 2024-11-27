@@ -1,0 +1,25 @@
+{
+  "apps": [
+    {
+      "name": "app1",
+      "icon": "",
+      "summary": "",
+      "desc": "",
+      "package": "",
+      "data": "",
+      "version": "",
+      "category": ""
+    },
+    {
+      "name": "app2",
+      "icon": "",
+      "summary": "",
+      "desc": "",
+      "package": "",
+      "data": "",
+      "version": "",
+      "category": ""
+    },
+    <...>
+  ]
+}
