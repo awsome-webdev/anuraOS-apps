@@ -2,22 +2,22 @@
   "apps": [
     {
       "name": "app1",
-      "icon": "",
-      "summary": "",
-      "desc": "",
+      "icon": "icon.png",
+      "summary": "hello",
+      "desc": "hello",
       "package": "",
       "data": "",
-      "version": "",
+      "version": "1",
       "category": ""
     },
     {
       "name": "app2",
-      "icon": "",
-      "summary": "",
-      "desc": "",
+      "icon": "icon.png",
+      "summary": "hello",
+      "desc": "hello",
       "package": "",
       "data": "",
-      "version": "",
+      "version": "1",
       "category": ""
     }
   ]
